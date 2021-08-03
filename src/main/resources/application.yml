@@ -1,0 +1,9 @@
+loda:
+  email: 19longdt.fptu@gmail.com
+  googleAnalyticsId: U-xxxxx
+  authors:
+    - loda
+    - atom
+  exampleMap:
+    key1: hello
+    key2: world
